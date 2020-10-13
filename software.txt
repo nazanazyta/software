@@ -1,0 +1,4 @@
+SOFTWARE:
+ * GitKraken
+ * Git
+ * Discord
