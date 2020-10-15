@@ -1,4 +1,5 @@
 SOFTWARE:
- * GitKraken
+
  * Git
+ * OBS
  * Discord

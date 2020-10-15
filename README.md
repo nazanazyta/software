@@ -1,2 +1,9 @@
-# software
-archivos para instalar software
+# Software
+
+Archivos para instalar software
+
+### Lista
+
++ Git
++ OBS
++ Discord
